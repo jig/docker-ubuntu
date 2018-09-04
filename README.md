@@ -1,3 +1,6 @@
+![Docker Automated](https://img.shields.io/docker/automated/jordi/ubuntu.svg)
+![Docker Build](https://img.shields.io/docker/build/jordi/ubuntu.svg)
+
 This is plain Ubuntu with:
 
 - added `ping` package
